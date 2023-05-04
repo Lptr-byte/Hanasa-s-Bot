@@ -53,9 +53,9 @@ Private Bot (Created by nonebot2 + go-cqhttp)
 ### 6.网易云点歌+下载
 * 点歌：```点歌 + 歌名```<br>
 ![Add Music](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/getMusic.png)
-* 下载：回复分享的消息“下载”
+* 下载：回复分享的消息“下载”<br>
 ![Download Music](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/downloadMusic.png)
 
 ### 7.emoji合成
-* ```emoji1 + emoji2```
+* ```emoji1 + emoji2```<br>
 ![Mix Emoji](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/addEmoji.png)
