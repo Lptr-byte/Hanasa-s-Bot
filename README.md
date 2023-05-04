@@ -51,8 +51,8 @@ Private Bot (Created by nonebot2 + go-cqhttp)
 |切换api|仅私聊|
 
 ### 6.网易云点歌+下载
-* 点歌：```点歌 + 歌名```
-![Add Music](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/addMusic.png)
+* 点歌：```点歌 + 歌名```<br>
+![Add Music](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/getMusic.png)
 * 下载：回复分享的消息“下载”
 ![Download Music](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/downloadMusic.png)
 
