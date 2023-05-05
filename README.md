@@ -59,3 +59,7 @@ Private Bot (Created by nonebot2 + go-cqhttp)
 ### 7.emoji合成
 * ```emoji1 + emoji2```<br>
 ![Mix Emoji](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/addEmoji.png)
+
+### 8.明日方舟工具箱
+* 查看帮助：```方舟帮助```<br>
+![zhouHelp](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/zhou.png)
