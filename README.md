@@ -18,7 +18,7 @@ Private Bot (Created by nonebot2 + go-cqhttp)
 ```
       运行代码示例(python)(无输入)：
           code py
-              print("sb")
+              print("Hello")
       运行代码示例(python)(有输入)：
           code py 你好
               print(input())
@@ -63,3 +63,8 @@ Private Bot (Created by nonebot2 + go-cqhttp)
 ### 8.明日方舟工具箱
 * 查看帮助：```方舟帮助```<br>
 ![zhouHelp](https://github.com/Lptr-byte/Hanasa-s-Bot/blob/main/resources/zhou.png)
+
+# TODO:
+* 添加```帮助```命令
+* 添加OpenAI记忆上下文的能力
+* 添加群聊统计功能
